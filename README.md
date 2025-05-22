@@ -4,7 +4,7 @@ Welcome to the simple **data project** repository!🚀
 
 ---
 
-##🚀 Introduction
+## 🚀 Introduction
 ### A simple data project
 
 #### Purpose
@@ -17,6 +17,11 @@ Welcome to the simple **data project** repository!🚀
 - **Documentation**
 
 ---
+
+## 🛡️License
+MIT
+
+## ⭐ Notes
 
 
 
