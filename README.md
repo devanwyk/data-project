@@ -1,2 +1,4 @@
-# data-project
-A simple data project
+# Data Project
+
+Welcome to the simple **data project** repository!
+
